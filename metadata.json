@@ -1,0 +1,5 @@
+{
+  "name": "SmartShop Manager",
+  "description": "A comprehensive sales and inventory management system featuring product CRUD, real-time stock tracking, POS shopping cart, and AI-powered business insights using Gemini.",
+  "requestFramePermissions": []
+}
